@@ -160,4 +160,9 @@ aside span {
     overflow-y: visible;
     padding: 22px;
   }
+  
+  .memory img {
+    width: 100%;
+    object-fit: contain;
+  }
 }
